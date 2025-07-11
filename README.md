@@ -10,7 +10,7 @@ El sistema permite gestionar:
 
 ---
 
-# Funcionalidades Principales:
+## Funcionalidades Principales:
 - Ver el menú actual.
 - Agregar un nuevo ítem al menú.
 - Eliminar o editar ítems del menú.
